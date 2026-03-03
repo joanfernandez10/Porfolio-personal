@@ -1,7 +1,7 @@
 # Porfolio-personal
 # Joan Fernandez – Data Analyst Portfolio
 
-Economista con foco en análisis de datos y modelización.
+Economist with a focus on data analysis and modeling.
 
 ## Skills
 - SQL
