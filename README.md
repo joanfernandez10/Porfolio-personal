@@ -7,7 +7,7 @@ Economist with a focus on data analysis and modeling.
 - SQL
 - Python (pandas, numpy, matplotlib)
 - Power BI
-- Modelos econométricos
+- Econometric models
 
 ## Projects
 1. SQL Sales Analysis
